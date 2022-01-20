@@ -4,5 +4,6 @@
 # On clicking the stop button the stopwatch will stop for that perticular time.
 ![2](https://user-images.githubusercontent.com/58084456/150286906-8734bb79-2be1-4feb-9bf2-933ff1d2ab1e.png)
 # On clicking the reset button the time will be reset.
+![3](https://user-images.githubusercontent.com/58084456/150287037-88d2edec-ecfd-4c5d-b272-320ad8aa697f.png)
 
 
