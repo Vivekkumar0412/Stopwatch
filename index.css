@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(58, 45, 45);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#container {
+  color: silver;
+}
+.time {
+  font-size: 150px;
+  font-weight: bold;
+}
+.txt {
+  font-size: 50px;
+  font-weight: bold;
+}
+#btn_container {
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  padding: 10px 40px;
+  margin: 10px 40px;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+}
+#start {
+  background-color: greenyellow;
+}
+#stop {
+  background-color: red;
+}
+#reset {
+  background-color: yellow;
+}
+#reset:hover {
+  box-shadow: 1px 4px 11px yellow;
+  color: yellow;
+  background-color: black;
+  /* border-radius: 30%; */
+}
+#stop:hover {
+  box-shadow: 1px 4px 11px red;
+  color: red;
+  background-color: black;
+}
+#start:hover {
+  box-shadow: 1px 4px 11px greenyellow;
+  color: greenyellow;
+  background-color: black;
+}
